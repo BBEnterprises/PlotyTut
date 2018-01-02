@@ -1,0 +1,27 @@
+-----------
+Plotly 
+-----------
+Python library
+https://github.com/plotly/plotly.py
+
+pip3 install plotly
+
+
+
+
+-----------
+Jupyter 
+-----------
+Creates the web framework that Plotly will feed into
+https://jupyter.readthedocs.io/en/latest/install.html#id4
+
+pip3 install jupyter
+
+Run: jupyter notebook
+
+
+-----------
+Tutorial
+-----------
+https://moderndata.plot.ly/create-a-plotly-dashboards-in-under-10-minutes/
+
